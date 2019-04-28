@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"description\" on type \"MarkdownRemarkFrontmatter\".","locations":[{"line":17,"column":7}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/mage-unconference-2017/","previous":null,"next":null}}
